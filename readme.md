@@ -1,5 +1,8 @@
 # Easy Flash Messages
 
+## Customization
+Better integration of the Bootstrap Modal functionality
+
 ## Installation
 
 First, pull in the package through Composer.
@@ -135,4 +138,3 @@ return Redirect::home();
 ![https://dl.dropboxusercontent.com/u/774859/GitHub-Repos/flash/overlay.png](https://dl.dropboxusercontent.com/u/774859/GitHub-Repos/flash/overlay.png)
 
 > [Learn exactly how to build this very package on Laracasts!](https://laracasts.com/lessons/flexible-flash-messages)
-
